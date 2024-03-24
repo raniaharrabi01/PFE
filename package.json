@@ -6,8 +6,28 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "grapesjs": "^0.21.9",
+    "grapesjs-blocks-basic": "^1.0.2",
+    "grapesjs-blocks-flexbox": "^1.0.1",
+    "grapesjs-component-countdown": "^1.0.2",
+    "grapesjs-custom-code": "^1.0.2",
+    "grapesjs-indexeddb": "^1.0.5",
+    "grapesjs-plugin-ckeditor": "^1.0.1",
+    "grapesjs-plugin-export": "^1.0.12",
+    "grapesjs-plugin-forms": "^2.0.6",
+    "grapesjs-preset-webpage": "^1.0.3",
+    "grapesjs-style-bg": "^2.0.2",
+    "grapesjs-style-filter": "^1.0.2",
+    "grapesjs-style-gradient": "^3.0.3",
+    "grapesjs-tooltip": "^0.1.8",
+    "grapesjs-tui-image-editor": "^1.0.2",
+    "grapesjs-typed": "^2.0.1",
+    "papaparse": "^5.4.1",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.10.2",
     "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
+    "react-router-dom": "^6.22.3",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -34,5 +54,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "bootstrap": "^5.3.3"
   }
 }

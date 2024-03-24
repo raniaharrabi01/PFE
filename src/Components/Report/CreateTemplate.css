@@ -1,0 +1,72 @@
+.btn-save{
+    background: transparent;
+    color: #b9a5a6;
+    border: 2px solid rgb(255, 255, 255, .2)!important;
+    outline: none;
+    border-radius: 40px!important;
+    font-weight: 300;
+    cursor: pointer;
+    size: 10px;
+    width: 200px;
+    height: 25px;
+  }
+  .btn-return:hover{
+    color: #d97aa6;
+  }
+.btn-return{
+    background: transparent;
+    color: #b9a5a6;
+    border: 2px solid rgb(255, 255, 255, .2)!important;
+    outline: none;
+    border-radius: 40px!important;
+    font-weight: 300;
+    cursor: pointer;
+    size: 10px;
+    width: 90px;
+    height: 25px;
+    margin-left: -700px;
+  }
+  .btn-save:hover{
+    color: #d97aa6;
+  }
+  .btn-specifie{
+    background: transparent;
+    color: #b9a5a6;
+    border: 2px solid rgb(255, 255, 255, .2)!important;
+    outline: none;
+    border-radius: 40px!important;
+    font-weight: 300;
+    cursor: pointer;
+    size: 10px;
+    width: 280px;
+    height: 25px;
+  }
+  .btn-specifie:hover{
+    color: #d97aa6;
+  }
+  .btn-open{
+    background: transparent;
+    color: #b9a5a6;
+    border: 2px solid rgb(255, 255, 255, .2)!important;
+    outline: none;
+    border-radius: 40px!important;
+    font-weight: 300;
+    cursor: pointer;
+    size: 10px;
+    width: 200px;
+    height: 25px;
+  }
+  .btn-open:hover{
+    color: #d97aa6;
+  }
+  .gjs-pn-devices-c {
+    display: none!important;
+  }
+  
+  .gjs-frame {
+    max-width: 700px;
+  }
+
+  [data-gjs-type="wrapper"] {
+    padding: 10px !important;
+  }
